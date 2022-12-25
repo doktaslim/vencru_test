@@ -1,0 +1,51 @@
+export const billing = [
+    {
+        id: 1,
+        title: 'Basic Plan - Dec 2022',
+        amount: 'USD $10.00',
+        date: "Dec 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 2,
+        title: 'Basic Plan - Nov 2022',
+        amount: 'USD $10.00',
+        date: "Nov 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 3,
+        title: 'Basic Plan - Oct 2022',
+        amount: 'USD $10.00',
+        date: "Oct 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 4,
+        title: 'Basic Plan - Sept 2022',
+        amount: 'USD $10.00',
+        date: "Sept 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 5,
+        title: 'Basic Plan - Aug 2022',
+        amount: 'USD $10.00',
+        date: "Aug 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 6,
+        title: 'Basic Plan - Jul 2022',
+        amount: 'USD $10.00',
+        date: "Jul 1, 2022",
+        status: 'Paid',
+    },
+    {
+        id: 7,
+        title: 'Basic Plan - Jun 2022',
+        amount: 'USD $10.00',
+        date: "Jun 1, 2022",
+        status: 'Paid',
+    },
+]
